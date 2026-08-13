@@ -64,7 +64,7 @@ function renderLayout() {
           <div class="footer-col">
             <h4>Project</h4>
             <a href="dashboard.html">Admin Dashboard</a>
-            <a href="https://github.com" target="_blank" rel="noopener">View on GitHub</a>
+            <a href="https://github.com/Anamol-Tiwari/ShopShpere" target="_blank" rel="noopener">View on GitHub</a>
           </div>
         </div>
         <div class="footer-bottom">
